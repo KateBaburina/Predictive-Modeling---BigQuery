@@ -6,7 +6,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Name
 Predictive Modeling - BigQuery
@@ -25,3 +24,7 @@ Google BigQuery - Linear Regression, XGB
 ## Metrics used
 
 ROC AUC, Log Loss
+
+## Installation
+
+Google BigQuery - https://console.cloud.google.com/bigquery
